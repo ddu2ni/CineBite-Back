@@ -27,6 +27,7 @@
 
 ### Directory Path
 ```
+**
 back
 ├─ .gitignore
 ├─ gradle
@@ -113,7 +114,7 @@ back
    │  │           └─ util
    │  └─ resources
    │     ├─ log4j2.xml
-```
    │     └─ static
-   │        └─ images
-</pre>
+   └─      └─ images
+**
+```

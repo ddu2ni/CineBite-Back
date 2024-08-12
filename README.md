@@ -51,8 +51,11 @@
         <td colspan="3">Git (개발/배포 브랜치 전략)</td>
     </tr>
 </table>
+</br>
 - 추후 디벨롭 예정
+
 ---
+</br></br>
 
 💻 **참여인원**
 
@@ -66,9 +69,9 @@
 
 ---
 
-### Tech Stack
+</br></br>
 
-### Directory Path
+📂 **파일구조**
 
 ```back
 ├─ .gitignore

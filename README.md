@@ -26,8 +26,8 @@
 ![004](https://github.com/user-attachments/assets/7d534395-c36d-4168-a290-c9e5f788def0)
 
 ### Directory Path
-<pre>
-**back
+
+**```back
 ├─ .gitignore
 ├─ gradle
 │  └─ wrapper
@@ -114,6 +114,5 @@
    │  └─ resources
    │     ├─ log4j2.xml
    │     └─ static
-   │        └─ images**
-</pre>
+   │        └─ images```**
 

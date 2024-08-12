@@ -1,11 +1,7 @@
-|  프로젝트 명  |    CineBite Project     |
-| :-----------: | :---------------------: |
-|   개발 환경   |         VSCode          |
-|   개발 기간   | 2024/06/03 ~ 2024/07/12 |
-| 데이터 베이스 |          MySQL          |
 
-</br>
-- 추후 디벨롭 예정
+![003](https://github.com/user-attachments/assets/37882eba-3d6f-4bef-9b61-166bf2537375)
+
+![004](https://github.com/user-attachments/assets/7d534395-c36d-4168-a290-c9e5f788def0)
 
 <table>
     <tr>
@@ -55,7 +51,7 @@
         <td colspan="3">Git (개발/배포 브랜치 전략)</td>
     </tr>
 </table>
-
+- 추후 디벨롭 예정
 ---
 
 💻 **참여인원**
@@ -164,6 +160,3 @@
    └─       └─ images
 ```
 
-![003](https://github.com/user-attachments/assets/37882eba-3d6f-4bef-9b61-166bf2537375)
-
-![004](https://github.com/user-attachments/assets/7d534395-c36d-4168-a290-c9e5f788def0)

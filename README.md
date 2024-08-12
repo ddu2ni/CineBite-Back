@@ -26,6 +26,7 @@
 ![004](https://github.com/user-attachments/assets/7d534395-c36d-4168-a290-c9e5f788def0)
 
 ### Directory Path
+<pre>
 back
 ├─ .gitignore
 ├─ gradle
@@ -46,26 +47,26 @@ back
    │  │        │  │  ├─ entity
    │  │        │  │  ├─ repository
    │  │        │  │  └─ service
-   │  │        │  ├─ like
-   │  │        │  │  ├─ controller
-   │  │        │  │  ├─ entity
-   │  │        │  │  ├─ repository
-   │  │        │  │  └─ service
-   │  │        │  ├─ post
-   │  │        │  │  ├─ controller
-   │  │        │  │  ├─ dto
-   │  │        │  │  ├─ entity
-   │  │        │  │  ├─ repository
-   │  │        │  │  └─ service
-   │  │        │  ├─ search
-   │  │        │  │  ├─ controller
-   │  │        │  │  ├─ dto
-   │  │        │  │  └─ service
-   │  │        │  ├─ tag
-   │  │        │  │  ├─ controller
-   │  │        │  │  ├─ dto
-   │  │        │  │  └─ service
-   │  │        │  ├─ util
+   │  │        ├─ like
+   │  │        │  ├─ controller
+   │  │        │  ├─ entity
+   │  │        │  ├─ repository
+   │  │        │  └─ service
+   │  │        ├─ post
+   │  │        │  ├─ controller
+   │  │        │  ├─ dto
+   │  │        │  ├─ entity
+   │  │        │  ├─ repository
+   │  │        │  └─ service
+   │  │        ├─ search
+   │  │        │  ├─ controller
+   │  │        │  ├─ dto
+   │  │        │  └─ service
+   │  │        ├─ tag
+   │  │        │  ├─ controller
+   │  │        │  ├─ dto
+   │  │        │  └─ service
+   │  │        ├─ util
    │  │        ├─ config
    │  │        │  ├─ file
    │  │        ├─ favorite
@@ -102,7 +103,7 @@ back
    │  │           ├─ dto
    │  │           │  ├─ oauth2
    │  │           │  ├─ request
-   │  │           │  ├─ response
+   │  │           │  └─ response
    │  │           ├─ entity
    │  │           ├─ filter
    │  │           ├─ handler
@@ -114,3 +115,4 @@ back
    │     ├─ log4j2.xml
    │     └─ static
    │        └─ images
+</pre>
